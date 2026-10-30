@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">مدرستي 2027</string>
+    <string name="app_subtitle">نظام حضور وغياب الطلاب السحابي</string>
+    <string name="tab_app">المنصة التفاعلية</string>
+    <string name="tab_audit">تقرير التدقيق والهندسة</string>
+    <string name="tab_source">كود index.html النهائي</string>
+    <string name="action_download_html">تنزيل ومشاركة index.html</string>
+    <string name="action_print_report">طباعة التقرير الحالي A4</string>
+    <string name="action_print">طباعة التقرير</string>
+    <string name="action_reload">إعادة تحميل المنصة</string>
+    <string name="action_copy_html">نسخ كود index.html الكامل</string>
+</resources>
